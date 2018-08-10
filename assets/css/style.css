@@ -1,0 +1,48 @@
+body{
+	background-image: url(file:///Users/jordan/Desktop/code/wallpaper.wiki-Free-Buffalo-Bills-Photos-PIC-WPD0011235.jpg);
+    text-align: center;
+    font-family: 'Anton', sans-serif;
+    background-size: 400px 250px;
+}
+
+
+.last-seconds{
+  color: #d2113b;
+}
+.option{
+  margin: 15px;
+}
+
+.text-muted{
+    color: #d2113b;
+    font-size: 60px;
+    font-weight: bold;
+}
+
+.btn-info{
+    background-color: #b12421;
+    border-color: #b12421;
+    
+}
+
+.btn-info:hover {
+    color: white;
+    background-color: #184c8c;
+    border-color: #184c8c;
+
+}
+
+.btn-info:active {
+    color: white;
+    background-color: #184c8c;
+    border-color: #184c8c;
+}
+
+.jumbotron{
+height: 400px;
+padding-top: 65px;}
+
+h2{
+    font-size: 50px;
+}
+
