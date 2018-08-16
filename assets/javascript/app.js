@@ -91,7 +91,7 @@ $(document).ready(function(){
       
     
       if(!trivia.timerOn){
-        trivia.timerId = setInterval(trivia.timerRunning, 3000);
+        trivia.timerId = setInterval(trivia.timerRunning, 1000);
       }
       
       // index questions
